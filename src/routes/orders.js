@@ -1,9 +1,6 @@
 import express from "express";
 import Order from "../models/Order.js";
-import {
-  auth,
-  adminAuth,
-} from "../middleware/auth.js";
+import {auth,adminAuth} from "../middleware/auth.js";
 import Product from "../models/Product.js";
 const router = express.Router();
 
