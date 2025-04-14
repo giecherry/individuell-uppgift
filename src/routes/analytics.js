@@ -26,6 +26,7 @@ router.get("/analytics/revenue-per-month", auth, adminAuth, async (req, res) => 
 
             if (revenuePerMonth[monthYear] !== undefined) {
                 revenuePerMonth[monthYear] += order.totalPrice;
+                revenuePerMonth[monthYear] = parseFloat(revenuePerMonth[monthYear].toFixed(2));
             }
         });
 
