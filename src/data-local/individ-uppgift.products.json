@@ -1,0 +1,697 @@
+[{
+  "_id": {
+    "$oid": "67efb247cf82266566ce7d8a"
+  },
+  "name": "Citron Eko Klass 1",
+  "price": 8.9,
+  "description": "Ekologiskt odlad citron, används som smaksättare i mat och dryck och har en mycket syrlig och sur smak.",
+  "stock": 0,
+  "imageUrl": "https://cdn.pixabay.com/photo/2017/02/05/12/31/lemons-2039830_1280.jpg",
+  "createdAt": {
+    "$date": "2025-04-04T10:19:51.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:48:23.639Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "67eef20b289198a4577c1d68"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f391d1401ad6b24d6debe4"
+  },
+  "name": "Gurka",
+  "price": 26,
+  "description": "Gurka är en fräsch och saftig grönsak med en mild smak och krispig textur.",
+  "stock": 0,
+  "imageUrl": "https://bilder.kolonial.no/prod/local_products/874639fc-f11c-427b-a90b-56ae220f7e7e.jpg?auto=format&fit=max&w=1000&s=3477cc6fcf27cab1147848c82c4af139",
+  "category": {
+    "$oid": "67eede28fc2a71d0428b43c8"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T08:50:25.457Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T14:08:25.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f3924e401ad6b24d6debe7"
+  },
+  "name": "Broccolii",
+  "price": 15,
+  "description": "Broccoli är en näringsrik grönsak",
+  "stock": 0,
+  "imageUrl": "https://api.ekoladan.se/files/1256_Eko-20okt11_0021-2.jpg",
+  "category": {
+    "$oid": "67eede28fc2a71d0428b43c8"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T08:52:30.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T13:17:06.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f392d4401ad6b24d6debea"
+  },
+  "name": "Morot",
+  "price": 23,
+  "description": "Morot är en söt och krispig rotgrönsak.",
+  "stock": 2,
+  "imageUrl": "https://media.martinservera.se/w_1440,q_auto,f_auto/prod/martinservera/produkt/3/050/636/DV02_103150_01.png",
+  "category": {
+    "$oid": "67eede28fc2a71d0428b43c8"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T08:54:44.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:51:06.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f39553401ad6b24d6debf7"
+  },
+  "name": "Champinjoner",
+  "price": 55,
+  "description": "Champinjoner är rika på vitaminer, mineraler och antioxidanter, vilket gör dem både smakrika och hälsosamma.",
+  "stock": 0,
+  "imageUrl": "https://bilder.kolonial.no/prod/local_products/e66020fb-0e2c-4b13-bf9b-6f643ffc16d6.jpg?auto=format&fit=max&w=1000&s=b17492862f997854c4c10a468ae494a8",
+  "category": {
+    "$oid": "67eede28fc2a71d0428b43c8"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T09:05:23.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:50:17.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f39bcee9aa57c0b45d75c4"
+  },
+  "name": "Grapefrukt",
+  "price": 20,
+  "description": "Grapefrukt är en syrlig och uppfriskande citrusfrukt med en fräsch smak och hög vattenhalt.",
+  "stock": 29,
+  "imageUrl": "https://bilder.kolonial.no/prod/local_products/1e28296a-2022-4cc0-b23c-0a1b097e5aa7.jpg?auto=format&fit=max&w=797&s=cd1922afa723fbc298e8a5181edfbd0a",
+  "category": {
+    "$oid": "67eef20b289198a4577c1d68"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T09:33:02.316Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:51:06.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f39c43e9aa57c0b45d75cc"
+  },
+  "name": "Piggelin Flerpack Glass",
+  "price": 60,
+  "description": "Piggelin. En läskande, uppfriskande och svalkande pinnglass med smak av tuttifrutti.",
+  "stock": 27,
+  "imageUrl": "https://assets.unileversolutions.com/v1/1570534.png?im=AspectCrop=(985,985);Resize=(985,985)",
+  "category": {
+    "$oid": "67efc5cb0f4355e45eaea8d1"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T09:34:59.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:48:23.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f39c68e9aa57c0b45d75cf"
+  },
+  "name": "Dadlar",
+  "price": 43,
+  "description": "Dadlar är söta och näringsrika frukter som växer på dadelpalmer. .",
+  "stock": 48,
+  "imageUrl": "https://mellins.nu/wp-content/uploads/2021/03/fine-353__81165.1560439122.jpg",
+  "category": {
+    "$oid": "67eef20b289198a4577c1d68"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T09:35:36.670Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-09T11:03:44.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f39cd4ba7cedf8802624f0"
+  },
+  "name": "Plopp Dubbel",
+  "price": 25,
+  "description": "Plopp Original från Cloetta har en söt och ljuv toffeefyllning och ett täcke av mjölkchoklad.Förpackningen innehåller 50 g..",
+  "stock": 73,
+  "imageUrl": "https://assets.axfood.se/image/upload/f_auto,t_500/07310040020726_C1N1_s01",
+  "category": {
+    "$oid": "67efc5cb0f4355e45eaea8d1"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T09:37:24.812Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T09:24:43.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f39d02e9aa57c0b45d75d6"
+  },
+  "name": "Mini Almond Glasspinnar",
+  "price": 60,
+  "description": "Magnum Almond Mini Flerpack, en pinnglass med sammetslen vaniljglass insvept i läcker Magnum-choklad och toppad med knaprig mandel",
+  "stock": 64,
+  "imageUrl": "https://assets.axfood.se/image/upload/f_auto,t_500/08711327611924_C1L1_s01",
+  "category": {
+    "$oid": "67efc5cb0f4355e45eaea8d1"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T09:38:10.624Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T08:21:20.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f39d06ba7cedf8802624f7"
+  },
+  "name": "Granatäpple",
+  "price": 14,
+  "description": "Granatäpple är rik på antioxidanter, vitaminer (som C-vitamin) och fiber",
+  "stock": 50,
+  "imageUrl": "https://res.cloudinary.com/coopsverige/image/upload/e_sharpen,f_auto,fl_clip,fl_progressive,q_90,c_lpad,g_center,h_660,w_660/v1661258163/cloud/257234.jpg",
+  "category": {
+    "$oid": "67eef20b289198a4577c1d68"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T09:38:14.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T09:38:14.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f39d2dba7cedf8802624fa"
+  },
+  "name": "Zoo MALACO",
+  "price": 18,
+  "description": "Godispåsen passar bra till kalaset eller i godisskålen. Godispåsen innehåller 95g. Fri från palmolja och utan artificiella färgämnen.",
+  "stock": 84,
+  "imageUrl": "https://assets.axfood.se/image/upload/f_auto,t_500/07310350136926_C1N1_s01",
+  "category": {
+    "$oid": "67efc5cb0f4355e45eaea8d1"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T09:38:53.375Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T08:21:19.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f39efde9aa57c0b45d75df"
+  },
+  "name": "Kiwi",
+  "price": 10,
+  "description": "Kiwi är en liten, grön frukt med ett brunfärgat, hårigt skal och ett saftigt, grönt inre med små svarta frön",
+  "stock": 47,
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+  "category": {
+    "$oid": "67eef20b289198a4577c1d68"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T09:46:37.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T14:08:42.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f3ae0ced685e9f2c86f60a"
+  },
+  "name": "Pepsi",
+  "price": 30,
+  "description": " Pepsi är ett av världens starkaste varumärken och Pepsi Max är en av de mest sålda dryckerna i det sockerfria läsksegmentet. Pepsi Max är en läsk som passar både vegetarianer och veganer.",
+  "stock": 50,
+  "imageUrl": "https://t4.ftcdn.net/jpg/02/84/65/61/360_F_284656175_G6SlGTBVl4pg8oXh6jr86cOmKUZjfrym.jpg ",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T10:50:52.399Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T10:50:52.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f3b039ed685e9f2c86f615"
+  },
+  "name": "Cocacola",
+  "price": 10,
+  "description": "Cocacola is available in a variety of formats, including regular, diet, caffeine-free, and variations like Cocacola Max and Cocacola Zero Sugar",
+  "stock": 50,
+  "imageUrl": "https://media.istockphoto.com/id/487787108/photo/can-of-coca-cola-on-ice.jpg?s=612x612&w=0&k=20&c=xDSO_nl0qeDMBZJBJk09jj5_UeQkyQ70QdXuDMByCaY=",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T11:00:09.744Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T11:00:09.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f3b0fbed685e9f2c86f61d"
+  },
+  "name": "Fanta",
+  "price": 15,
+  "description": "Fanta is available in a variety of formats, including regular, diet, caffeine-free, and variations like Fanta Max and Fanta Zero Sugar",
+  "stock": 50,
+  "imageUrl": "https://productimages.motatos.com/MS221224/ms221224_1-02ef592d-80b9-4e2b-82b6-071ab5045318.png?tr=n-product&itok=7sEtdFGb",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T11:03:23.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T11:03:23.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f3b15ced685e9f2c86f623"
+  },
+  "name": "Apelsinjuice",
+  "price": 15,
+  "description": "Apelsinjuice är en frisk och söt dryck som tillverkas genom att pressa saften från apelsiner. Den är rik på C-vitamin och uppskattas för sin naturliga smak och uppfriskande egenskaper. Apelsinjuice är en populär dryck, särskilt till frukost, och älskas för sin fräscha och smakrika karaktär.",
+  "stock": 50,
+  "imageUrl": "https://www.citygross.se/images/products/VI_503886213040020241212-111046-985.jpeg",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T11:05:00.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T11:05:00.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f3b1aaed685e9f2c86f626"
+  },
+  "name": "Granatäpplejuice",
+  "price": 15,
+  "description": "Granatäpplejuice är en smakrik och hälsosam dryck som pressas från granatäpplets saftiga frön. Den har en söt och syrlig smak och är rik på antioxidanter, vitaminer och mineraler, vilket gör den populär för sina hälsofördelar. Granatäpplejuice är både uppfriskande och näringsrik och uppskattas som ett naturligt alternativ till andra fruktjuicer.",
+  "stock": 50,
+  "imageUrl": "https://cdn11.bigcommerce.com/s-zlpiyp0z77/images/stencil/1280x1280/products/119/506/Smart-Juice-Pomegranate-Front__67596.1716442916.jpg?c=2",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T11:06:18.649Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T11:06:18.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f3b332ed685e9f2c86f62f"
+  },
+  "name": "Jam-e-Shirin",
+  "price": 50,
+  "description": "Jam-e-Shirin är en härligt uppfriskande, angenäm smakande och effektiv sirap gjord på destillat från naturliga örter utan att använda en enda droppe vatten",
+  "stock": 50,
+  "imageUrl": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWxpihJjMapNklWbYodZGB4rwHcn-lrTY-g&s",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T11:12:50.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T11:12:50.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f3b47ced685e9f2c86f632"
+  },
+  "name": "Fun",
+  "price": 30,
+  "description": "Från den törstsläckande Watermelon Fresh till den kryddiga Green Spicy, och den syrliga OJ-ADE till den tropiska njutningen av Mangoe-IFE, Mango-rilla, Cucu-Lime Fresh och Mango-Leaf Juice, finns det en smak för varje tillfälle.",
+  "stock": 50,
+  "imageUrl": "https://livsmedelsnyheter.se/wp-content/uploads/sites/7/2024/04/Vitamin_boost_1920x1080.jpg ",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T11:18:20.694Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T11:18:20.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f3b651b4dcce6fc9e8a270"
+  },
+  "name": "Vinut",
+  "price": 30,
+  "description": "Den perfekta drycken för en het sommardag för att återuppliva dina socker- och energinivåer",
+  "stock": 50,
+  "imageUrl": "https://d1l8km4g5s76x5.cloudfront.net/Production/exb_doc/2018/24891/2018_24891_24554_1155.png/fit-in/500x500 ",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T11:26:09.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T11:26:09.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f4e315349d8eae73dc5f93"
+  },
+  "name": "Aubergine",
+  "price": 20,
+  "description": "Aubergine är en näringsrik grönsak med en mild, lätt bitter smak och krämig konsistens när den tillagas",
+  "stock": 50,
+  "imageUrl": "https://maysimpkin.com/wp-content/uploads/2016/11/Auvergine-with-slices-1024x1005.jpg",
+  "category": {
+    "$oid": "67eede28fc2a71d0428b43c8"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T08:49:25.479Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T08:49:25.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f78c702cf39a0e0461a851"
+  },
+  "name": "Oregano",
+  "price": 17.01,
+  "description": "a speciall örter som en kan använda for pasta",
+  "stock": 49,
+  "imageUrl": "https://www.kockens.se/wp-content/uploads/2015/03/oregano-2-1280x1280.jpg",
+  "category": {
+    "$oid": "67eee046fc2a71d0428b43d4"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T09:16:32.851Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T13:23:18.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f78e5769f3976d80fe6114"
+  },
+  "name": "Rosmarin",
+  "price": 29.67,
+  "description": "Rosmarin är en aromatisk ört som passar bra till lamm-, kalv- och fläskkött. Rosmarin är även gott till potatis- och grönsaksrätter",
+  "stock": 50,
+  "imageUrl": "https://bilder.kolonial.no/prod/local_products/9e8c35a5-1cee-4710-972c-0e6c6f996206.jpg?auto=format&fit=max&w=406&s=06320dc0fe29037870e9505a01cba27f",
+  "category": {
+    "$oid": "67eee046fc2a71d0428b43d4"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T09:24:39.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T12:45:04.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7abb0cd67ab9dee2b1903"
+  },
+  "name": "Basilika",
+  "price": 45,
+  "description": "",
+  "stock": 0,
+  "imageUrl": "https://bilder.kolonial.no/prod/local_products/9e8c35a5-1cee-4710-972c-0e6c6f996206.jpg?auto=format&fit=max&w=406&s=06320dc0fe29037870e9505a01cba27f",
+  "createdAt": {
+    "$date": "2025-04-10T11:29:52.841Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T16:49:14.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7ae0fbdf6204ed79d52e0"
+  },
+  "name": "Kex Choklad",
+  "price": 45,
+  "description": "Cloetta Kexchoklad Minibit 156g är en påse fylld med 15 stycken små Kexchoklad original, perfekt att ta med på en utflykt eller ha hemma som snacks.",
+  "stock": 40,
+  "imageUrl": "https://assets.axfood.se/image/upload/f_auto,t_500/07310040027770_C1N1_s01",
+  "category": {
+    "$oid": "67efc5cb0f4355e45eaea8d1"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T11:39:59.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T14:08:43.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f89fc83ef59e196b382de9"
+  },
+  "name": "Curry",
+  "price": 32.95,
+  "description": "Kryddblandning med mycket smak. Curry passar riktigt bra till kycklingrätter, risrätter samt varma och kalla såser.",
+  "stock": 50,
+  "imageUrl": "https://media.delitea.se/product-images/XL/santa-maria-curry-205-g-1.jpg",
+  "category": {
+    "$oid": "67eee046fc2a71d0428b43d4"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T04:51:20.539Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T07:49:47.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f8cd71249b280166b6c251"
+  },
+  "name": "Banan klass1",
+  "price": 5.5,
+  "description": "Bananer i första klass från Centralamerika.",
+  "stock": 50,
+  "imageUrl": "https://cdn.sanity.io/images/1teetjp9/production/7ee1866f407a43d50983ce47fb866c40b6ed920b-1440x960.jpg",
+  "category": {
+    "$oid": "67eef20b289198a4577c1d68"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T08:06:09.551Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T09:18:09.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f8ff9cb707cda44904c007"
+  },
+  "name": "Potatis",
+  "price": 40,
+  "description": "Den är en mångsidig ingrediens i både vardagsmat och mer avancerade rätter. Potatis är också en viktig del av många traditionella maträtter runt om i världen.",
+  "stock": 50,
+  "imageUrl": "https://bilder.kolonial.no/prod/local_products/72a0ceb8-1fdc-499f-bf88-b80e16d330ee.jpg?auto=format&fit=max&w=500&s=5b385d587e35922257e56fbefa3ed078",
+  "category": {
+    "$oid": "67eede28fc2a71d0428b43c8"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T11:40:12.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T11:40:12.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f908615f571d63bb7afc52"
+  },
+  "name": "Gaza Cola",
+  "price": 40,
+  "description": "The taste is similar to classic colas like Coca-Cola or Pepsi, with its own unique twist.Sold in traditional plastic or glass bottles and cans, often labeled with Arabic text and local branding",
+  "stock": 50,
+  "imageUrl": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2024/11/24/cola_gaza.jpg",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T12:17:37.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T12:17:37.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f90a8e549ccd2e384dd50a"
+  },
+  "name": "Salam Cola",
+  "price": 45,
+  "description": "Vissa varianter marknadsförs som halal-certifierade eller etiskt producerade.Symbol för fred och rättvisa.",
+  "stock": 50,
+  "imageUrl": "https://cdn.vox-cdn.com/thumbor/K1VYRjSxRGupGceCWKCae4ri0Dw=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/73659449/24.10_Salaam_Cola.0.png",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T12:26:54.180Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T12:26:54.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f90bcf549ccd2e384dd515"
+  },
+  "name": "Gullök",
+  "price": 25,
+  "description": "Gul lök är alltså en mångsidig och oumbärlig ingrediens i det svenska köket.",
+  "stock": 50,
+  "imageUrl": "https://bestmat.se/wp-content/uploads/2021/05/lok-gul-5kg.jpg",
+  "category": {
+    "$oid": "67eede28fc2a71d0428b43c8"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T12:32:15.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T12:32:15.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f916cf85cfc49eeac5d2f8"
+  },
+  "name": "Rooh-afzah",
+  "price": 30,
+  "description": "en smakligt dryck ,kan dricka med blandning med vatten.",
+  "stock": 40,
+  "imageUrl": "test.com",
+  "category": {
+    "$oid": "67ee774eb98206ee8eebe060"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T13:19:11.146Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T06:37:36.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f92a3280755eaefe0bda0b"
+  },
+  "name": "Choklad Gräddglass",
+  "price": 60,
+  "description": "Krämig chokladglass med kakaofyllning, gjord på svensk färsk grädde. Alltid gjord på svensk färsk grädde.",
+  "stock": 70,
+  "imageUrl": "https://assets.axfood.se/image/upload/f_auto,t_500/07312690021115_C1C1_s06",
+  "category": {
+    "$oid": "67efc5cb0f4355e45eaea8d1"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T14:41:54.586Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T14:41:54.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f92c8603cf94220fabb6e6"
+  },
+  "name": "Sourcream Onion Chips",
+  "price": 15,
+  "description": "veriges mest populära chips och en riktig klassiker. Smaken är syrligt krämig med ett sting av lök som passar perfekt på snacks. ",
+  "stock": 60,
+  "imageUrl": "https://assets.axfood.se/image/upload/f_auto,t_500/07310531027906_C1N1_s02",
+  "category": {
+    "$oid": "67efc5cb0f4355e45eaea8d1"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T14:51:50.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T14:51:50.693Z"
+  },
+  "__v": 0
+}]

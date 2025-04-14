@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "67fd48c669d711dae9cf919f"
+  },
+  "username": "user",
+  "password": "$2a$10$cAOtoSXia83DMZmvHd4uLejJm0vxlEr7mpynAKxtY8UmU9bEvX5aW",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-04-14T17:41:26.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:41:26.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fd48d669d711dae9cf91a1"
+  },
+  "username": "admin",
+  "password": "$2a$10$87EHkqfsc9G0cKBV4faryuNSW/Xa17chlxfyNMaH38johQAXsBdre",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2025-04-14T17:41:42.308Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:41:42.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fd4a4b69d711dae9cf91ec"
+  },
+  "username": "user2",
+  "password": "$2a$10$lwWFlxTiyw5yJaXb2BHRG.rcyPDBzDf/8GuZk5fWDXEDac.t4fZJG",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-04-14T17:47:55.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:47:55.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fd4a4f69d711dae9cf91ee"
+  },
+  "username": "user3",
+  "password": "$2a$10$XmVX8a2Cw2ap.CM/AoCxCOdivCgj0IFvje23CLxq4F1.7icweIUUK",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-04-14T17:47:59.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:47:59.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fd4a5269d711dae9cf91f0"
+  },
+  "username": "user4",
+  "password": "$2a$10$zNiQqFYD7JjWtgpUrLK7WOgFAl4iYe9.VRE7A4Nqvd5FsygGAMdyG",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-04-14T17:48:02.091Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:48:02.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fd4a5669d711dae9cf91f2"
+  },
+  "username": "user5",
+  "password": "$2a$10$BX/UokyZI5CiEZ6OPbZm4.lNiB1yYKpZ2d6HKSdGkdo67Dv/zUVUe",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-04-14T17:48:06.885Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:48:06.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fd4a5969d711dae9cf91f4"
+  },
+  "username": "user6",
+  "password": "$2a$10$9wo4SLPIDm5KD0gYCFpuCuYMorpq6iKfrQ16o/xZgE2qGXMT23ryy",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-04-14T17:48:09.980Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T17:48:09.980Z"
+  },
+  "__v": 0
+}]
