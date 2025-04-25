@@ -59,6 +59,8 @@ router.get("/analytics/top-costumers", analyticsAdminAuth, async (req, res) => {
             }
 
             userTotalSpent[userId].totalSpent += order.totalPrice; 
+            userTotalSpent[userId].totalSpent = parseFloat(userTotalSpent[userId].totalSpent.toFixed(2));
+
         });
 
         const topCustomers = Object.values(userTotalSpent).sort((a, b) => b.totalSpent - a.totalSpent).slice(0, 5);
