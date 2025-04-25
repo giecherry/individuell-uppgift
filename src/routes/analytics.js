@@ -5,7 +5,7 @@ import Order from "../models/Order.js";
 
 
 //API:t ska returnera en lista med totala orderintäkter för varje månad bakåt i tiden, från nuvarande månad till exakt ett år tillbaka.
-router.get("/analytics/revenue-per-month", auth, analyticsAdminAuth, async (req, res) => {
+router.get("/analytics/revenue-per-month", analyticsAdminAuth, async (req, res) => {
     try {
         const orders = await Order.find({}).populate("totalPrice", "createdAt");
         if (!orders) {
@@ -39,7 +39,7 @@ router.get("/analytics/revenue-per-month", auth, analyticsAdminAuth, async (req,
 });
 
 //Returnerar en lista över de 5 kunder som har spenderat mest totalt i webbshopen.
-router.get("/analytics/top-costumers", auth, analyticsAdminAuth, async (req, res) => {
+router.get("/analytics/top-costumers", analyticsAdminAuth, async (req, res) => {
     try{
         const orders = await Order.find().populate("user", "username _id");
 
